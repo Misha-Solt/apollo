@@ -12,7 +12,7 @@ Here, I'll track my progress through the series. Each part of the series will ha
 
 -   [ ] Lift-off Part 1: Basics of GraphQL in Apollo Server
 -   [ ] Lift-off Part 2: Resolvers
--   [ ] ...
+-   [ ] Lift-off Part 3: Arguments
 -   [ ] ...
 
 ## Installation and Running Projects
@@ -26,6 +26,8 @@ As I progress through the series, I'll list key learning outcomes and concepts t
 -   Understanding the basics of GraphQL schemas and type definitions.
 -   Learning how to write resolvers in Apollo Server.
 -   Integrating a database with a GraphQL API.
+-   Learning how to use resolvers and a RESTDataSource to connect app to live data.
+-   Learning how to use query variables and arguments to query for one single track.
 -   ...
 
 ## Contributing
