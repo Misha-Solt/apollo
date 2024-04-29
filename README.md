@@ -14,6 +14,7 @@ Here, I'll track my progress through the series. Each part of the series will ha
 -   [ ] Lift-off Part 2: Resolvers
 -   [ ] Lift-off Part 3: Arguments
 -   [ ] Lift-off Part 4: Mutations
+        Lift-off series ended
 
 ## Installation and Running Projects
 
@@ -29,7 +30,7 @@ As I progress through the series, I'll list key learning outcomes and concepts t
 -   Learning how to use resolvers and a RESTDataSource to connect app to live data.
 -   Learning how to use query variables and arguments to query for one single track.
 -   Understanding how to use the parent and args parameters in resolver functions, use arguments in the schema, use resolver chains to resolve data
--   ...
+-   Adding mutations to a schema and learning best practices for mutation responses
 
 ## Contributing
 

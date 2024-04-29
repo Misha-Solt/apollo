@@ -2,8 +2,8 @@ const gql = require('graphql-tag')
 
 const typeDefs = gql`
     type Mutation {
-        "Mutate an Object"
-        incrementTrack(id: ID!): IncrementTrackViewsResponse!
+        "Increment the number of views of a given track, when the track card is clicked"
+        incrementTrackViews(id: ID!): IncrementTrackViewsResponse!
     }
     type IncrementTrackViewsResponse {
         "Similar to HTTP status code, represent the status of the mutation"

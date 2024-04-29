@@ -10,7 +10,7 @@ const resolvers = {
         },
     },
 
-    Mutatation: {
+    Mutation: {
         // increment a track's numberOfViews property
         incrementTrackViews: async (_, { id }, { dataSources }) => {
             try {
